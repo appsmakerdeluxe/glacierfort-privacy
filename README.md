@@ -1,3 +1,5 @@
-# Hiberlume privacy site
+# GlacierFort privacy site
 
-Privacy information for Hiberlume Free and Pro in five languages. The Android game is in development.
+Privacy information for GlacierFort: Prologue and GlacierFort: Last Refuge in German, English, Spanish, French, and Portuguese. The games are in development; the planned data handling will be checked against each final build before release.
+
+Published site: https://appsmakerdeluxe.github.io/glacierfort-privacy/
